@@ -1,39 +1,39 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Alan Hylands",
+  "description": "Alan Hylands is a data analyst and writer from Northern Ireland.",
+  "url": "https://alanhylands.com",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Alan Hylands",
+    "email": "alan@alanhylands.com",
+    "twitterHandle": ""
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Blog",
-      "url": "/blog",
+      "text": "Writing",
+      "url": "/writing/",
       "external": false
     },
     {
       "text": "About",
-      "url": "/about",
+      "url": "/about/",
       "external": false
     }
   ],
   "socialLinks": [
     {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
+      "text": "Bluesky",
+      "url": "https://bsky.app/profile/alanhylands.com",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/santino79/",
       "external": true
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alanhylands/",
       "external": true
     }
   ],
@@ -44,5 +44,5 @@
       "external": true
     }
   ],
-  "showFooterAttribution": true
+  "showFooterAttribution": false
 }
