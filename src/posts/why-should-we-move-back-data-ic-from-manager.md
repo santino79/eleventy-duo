@@ -36,7 +36,9 @@ However, the superpowers you will have developed, maybe under the radar, even to
 
 <div class="tenor-gif-embed" data-postid="4084434" data-share-method="host" data-aspect-ratio="2.39" data-width="100%"><a href="https://tenor.com/view/superman-shirt-super-christopher-reeve-movie-gif-4084434">Taking Off The Shirt - Superman GIF</a>from <a href="https://tenor.com/search/superman-gifs">Superman GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-**Prioritizing the really important work is one of the most important skills any IC can develop** As a line manager, you'll have had this as one of your main tasks, day in, day out. Why wouldn't you bring those talents back over to the IC world?
+**Prioritizing the really important work is one of the most important skills any IC can develop.**
+
+As a line manager, you'll have had this as one of your main tasks, day in, day out. Why wouldn't you bring those talents back over to the IC world?
 
 - Understanding the business domain.
 - Seeing the value of building a team ethos while working on the same level as your team-mates.
