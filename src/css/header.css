@@ -20,9 +20,10 @@
 }
 
 .site-title {
-  font-size: var(--text-xl);
+  font-size: var(--text-2xl);
   margin-top: 1rem;
   margin-bottom: 1rem;
+  font-weight: bold;
 }
 
 .site-title a {
@@ -38,7 +39,7 @@
   display: flex;
   justify-content: space-around;
   list-style: none;
-  font-size: var(--text-base);
+  font-size: var(--text-xl);
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }

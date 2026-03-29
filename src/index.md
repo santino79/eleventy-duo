@@ -14,7 +14,7 @@ and The New York Times Company,
 and had articles published in <a href="https://medium.com/data-science/becoming-an-analytics-manager-isnt-a-promotion-c3f65bbd0d95">Towards Data Science</a>
 and <a href="https://hackernoon.com/fewer-dashboards-more-analysis-63581970672c">Hacker Noon</a>.
 
-You can read a collection of my <a href="/writing/">selected essays</a> here.
+You can read a selection of my <a href="/writing/">writing</a> here.
 
 
 ## Want to know more?

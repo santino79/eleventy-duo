@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
 :root {
   --text-xs: 0.75rem;
   --text-sm: 0.875rem;
@@ -21,7 +23,7 @@ body {
   font-variant-ligatures: contextual;
   -webkit-overflow-scrolling: touch;
   -webkit-text-size-adjust: 100%;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: Outfit, sans-serif;
 }
 
 h1,
@@ -36,23 +38,23 @@ h6 {
 }
 
 h1 {
-  font-size: var(--text-4xl);
+  font-size: var(--text-5xl);
 }
 
 h2 {
-  font-size: var(--text-3xl);
+  font-size: var(--text-4xl);
 }
 
 h3 {
-  font-size: var(--text-2xl);
+  font-size: var(--text-3xl);
 }
 
 h4 {
-  font-size: var(--text-xl);
+  font-size: var(--text-2xl);
 }
 
 h5 {
-  font-size: var(--text-lg);
+  font-size: var(--text-xl);
 }
 
 p {
