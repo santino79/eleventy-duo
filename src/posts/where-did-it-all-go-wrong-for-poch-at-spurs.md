@@ -5,8 +5,6 @@ date: '2019-11-20'
 permalink: posts/{{ title | slug }}/index.html
 tags: ['football']
 ---
-![Mauricio Pochettino crying on the pitch](/images/poch-cry-pitch.jpg)
-
 > “We will try to give everything to make you proud of this football club.” - Mauricio Pochettino at his first Spurs press conference.
 
 Yeah right mate. Might as well be waving a tube ticket around. Here we go again.
@@ -34,8 +32,6 @@ The players don't run any more, they saunter. They don't hassle or pressure the 
 Harry Kane in a Spurs shirt is a shadow of what he was even 12 to 18 months ago and we keep blaming the injuries. Then he puts on an England shirt and he's the old Harry Kane again. When you can't even look to your talisman to pick himself up, you know something is badly wrong somewhere.
 
 And that's before you get to the out of form, the bang average and the contract rebels. Five months ago this squad was bulldozing it's way into the Champions League final and now they are getting picked apart by the likes of Brighton. How did it all fall apart so quickly and, more importantly, who was really to blame?
-
-![Tottenham Hotspur squad before Champions League Final 2019](/images/Tottenham-team-photo-Champions-League.jpg)
 
 ## The Players.
 
@@ -85,8 +81,6 @@ The squad now needs extensive rebuilding. The record signing of Tanguy N'Dombele
 
 Levy has painted himself into a corner and as the inevitable spending begins you can picture Poch and co. sitting over a cup of mate wondering why it didn't happen for them. And what might have been if it had.
 
-![Tottenham Hotspur Stadium](/images/tottenham-stadium.jpg)
-
 ## The Stadium.
 
 It's impossible to know just how much the move away from old White Hart Lane was responsible for the underlying issues that finished Poch off.
@@ -104,8 +98,6 @@ How typical of the footballing gods to bestow the greatest footballing side of m
 How we laughed when the neighbours down the road were forced to “sell to buy” for years after moving to their new digs at Ashburton Grove. It's not so funny now, is it?
 
 The real pain for Pochettino will be when he sees the financial benefits of increased matchday revenue and the rest start to filter through to supporting the footballing side of the THFC business (I say VERY hopefully). He took the pain for someone else's gain. Such is life as a football manager - especially at Spurs.
-
-![Pochettino at book signing](/images/poch-book.jpg)
 
 ## Poch Himself.
 
@@ -137,8 +129,6 @@ Poch struggled tactically too in recent years. Constantly tinkering with personn
 
 His use of subs had a distinctly amateur hour feel to it and if that sounds like nit picking then watch back some of the games we couldn't close out over the past season or two. The refusal to shake up his trusted coaching staff didn't help in that regard either.
 
-![Pochettino and Levy celebrate](/images/pochettino-levy.jpg)
-
 ## Raising The Expectations Too High, Too Soon.
 
 Ultimately, it's difficult not to feel that Poch was simply a victim of his own success. Coming at a time that turned out to be less than ideal in terms of financial support from the boardroom, it only heightened the feeling of “what might have been”.
@@ -167,8 +157,6 @@ In that way Poch's priorities perfectly mirrored those of Daniel Levy. Champions
 
 It also gave a false sense of security that done once, it could be repeated over and over again, even though the main competitors were all beefing up their own squads while Levy got his hi-vis jacket and hard hat on.
 
-![Pochettino cries on the pitch](/images/poch-cry.jpg)
-
 ## It was bound to end in tears - and it has.
 
 It should have been brought to a close by all parties after the disappointment in Madrid in June. But no-one wanted to be the one to call time on it.
@@ -187,12 +175,8 @@ Those memories won't disappear quickly. We have them to cherish but there will a
 
 “What if” we'd bought a couple of players in the summer of 2018? “What if” Sissoko hadn't lifted his arm in the first minute of the Champions League final?
 
-![Pochettino on touchline in Champions League final](/images/poch-champs-lge.jpg)
-
 ## What if? What if?
 
 What if indeed.
 
 Good luck Poch. Wherever you go, you'll always be one of us. Hasta luego, amigo. COYS.
-
-![Pochettino celebrates](/images/poch-celebrates.jpg)
