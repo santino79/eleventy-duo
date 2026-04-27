@@ -19,7 +19,7 @@ I joined [Zapier](https://zapier.com) in early 2020, and am currently a **Staff 
 
 I've worked in tech, data and analytics for the past 20+ years - building, reporting, analysing, managing, and mentoring.
 
-I've covered varied sectors, mainly tech, financial services, healthcare, and e-commerce, and have led successful data projects in areas such as exploratory data analysis, customer segmentation and profiling, and customer lifetime value modelling.
+I've covered tech, financial services, healthcare, and e-commerce, and have led successful data projects in areas such as exploratory data analysis, customer segmentation and profiling, and customer lifetime value modelling.
 
 ## A little more background.
 
@@ -29,7 +29,7 @@ Then I found the internet, programming, and databases.
 
 I started my first e-commerce development agency in 2003. Since then I have worked on a number of small business start-ups in e-commerce, analytics, marketing, online research, and content marketing.
    
-I started a successful football website which gave me the opportunity to write professionally for the New York Times Company. (Want to find out how that came about? Check out my [I Want To Be A Football Writer When I Grow Up](/posts/i-want-to-be-a-football-writer-when-i-grow-up/) article.)
+I started a successful football website which gave me the opportunity to write professionally for the New York Times Company. (Want to find out how that came about? Check out my [I Want To Be A Football Writer When I Grow Up](/posts/i-want-to-be-a-football-writer-when-i-grow-up/) essay.)
 
 Quite unexpectedly, I was seduced into the corporate world of banking and financial services in the boom-time mid-noughties.
 
@@ -41,7 +41,7 @@ And that's what brought me to [Zapier](https://zapier.com).
 
 ## Anything else?
 
-I also write [data articles](/tags/data/) to help folks become better data analysts, and I help them get started learning SQL with my online [SQL Crash Course](https://sqlcrashcourse.com). 
+I also write [data articles](https://analystsassemble.com/articles/) to help folks become better data analysts, and I help them get started learning SQL with my online [SQL Crash Course](https://sqlcrashcourse.com). 
 
 ## Where you can find me.
 
