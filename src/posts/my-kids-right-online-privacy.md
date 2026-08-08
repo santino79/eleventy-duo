@@ -2,7 +2,6 @@
 title: "My Kids Have A Right To Their Online Privacy"
 description: ''
 date: '2019-01-14'
-permalink: posts/{{ title | slug }}/index.html
 tags: ['personal']
 ---
 ![A red door with the word private on it](/images/private-red-door.jpg)

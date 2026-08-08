@@ -2,7 +2,6 @@
 title: "Why I Unfollowed Everyone On Twitter"
 description: ''
 date: '2022-01-08'
-permalink: posts/{{ title | slug }}/index.html
 tags: ['tech']
 ---
 ![Twitter banner](/images/twitter-banner.png)

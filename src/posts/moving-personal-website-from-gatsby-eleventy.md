@@ -2,7 +2,6 @@
 title: "Migrating My Personal Website From Gatsby To Eleventy"
 description: ''
 date: '2021-02-06'
-permalink: posts/{{ title | slug }}/index.html
 tags: ['tech']
 ---
 ![11ty Logo](/images/11ty-logo.jpg)
@@ -15,7 +14,7 @@ Or so I keep telling myself as I said.
 
 ## What Did You Do?
 
-I migrated my [personal website](https://alanhylands.com) from one Static Site Generator, Gatsby, to another, Eleventy. Looking back at the [article](/posts/migrating-blog-wordpress-gatsby-part-one/) I wrote when I first moved the site from Wordpress over to Gatsby, it was almost two years on from the last major development.
+I migrated my [personal website](https://alanhylands.com) from one Static Site Generator, Gatsby, to another, Eleventy. Looking back at the [article](/migrating-blog-wordpress-gatsby-part-one/) I wrote when I first moved the site from Wordpress over to Gatsby, it was almost two years on from the last major development.
 
 Which says a lot: either about Gatsby and how well I got on with it. Or the fact that one whole year of that time was 2020 when it was difficult to find a break from my busy Twitter doomscrolling routine to do anything even mildly productive or creative online.
 

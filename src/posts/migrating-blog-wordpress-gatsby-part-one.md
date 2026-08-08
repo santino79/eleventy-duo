@@ -2,7 +2,6 @@
 title:  "Migrating My Blog From Wordpress To Gatsby - Part 1"
 description: ''
 date: '2019-04-29'
-permalink: posts/{{ title | slug }}/index.html
 tags: ['tech']
 ---
 ![Leonardo di Caprio as Jay Gatsby](/images/leo-gatsby.jpg)

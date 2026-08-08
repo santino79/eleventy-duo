@@ -2,12 +2,11 @@
 title: "Migrating My Blog From Wordpress To Gatsby - Part 2"
 description: ''
 date: '2019-05-18'
-permalink: posts/{{ title | slug }}/index.html
 tags: ['tech']
 ---
 ![Great Gatsby book cover](/images/f-scott-gatsby.jpg)
 
-I wrote in [Part One](/posts/migrating-my-blog-from-wordpress-to-gatsby-part-1/) about finally biting the bullet and giving Gatsby a go. Having dipped my toe in it's delectable waters I knew full well that it was only a matter of time before I went deeper down the rabbit hole.
+I wrote in [Part One](/migrating-my-blog-from-wordpress-to-gatsby-part-1/) about finally biting the bullet and giving Gatsby a go. Having dipped my toe in it's delectable waters I knew full well that it was only a matter of time before I went deeper down the rabbit hole.
 
 So I spent a couple of weeks converting my main data and analytics site Simple Analytical to Gatsby from Wordpress. Yes, there is an element of yak shaving in there.
 
@@ -82,7 +81,7 @@ I will have to re-visit this in time as it only sets people up to be added to th
 
 ### Any other issues?
 
-I mentioned in [Wordpress->Gatsby part 1](/posts/migrating-blog-wordpress-gatsby-part-one/) that I'd had to do an email workaround and I've done the same thing on this site migration. Netlify DNS is very easy to configure so adding A and MX records to point to the mailserver at my other hosting provider was pretty simple.
+I mentioned in [Wordpress->Gatsby part 1](/migrating-blog-wordpress-gatsby-part-one/) that I'd had to do an email workaround and I've done the same thing on this site migration. Netlify DNS is very easy to configure so adding A and MX records to point to the mailserver at my other hosting provider was pretty simple.
 
 Otherwise, the migration was quick. The site is **VERY** fast on pageload and [Google's Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Falanhylands.com%2F) tool **LOVES** it.
 

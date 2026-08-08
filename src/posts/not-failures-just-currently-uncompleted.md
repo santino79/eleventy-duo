@@ -2,7 +2,6 @@
 title: "Not Failures, Just Currently Uncompleted"
 description: ''
 date: '2018-09-24'
-permalink: posts/{{ title | slug }}/index.html
 tags: ['personal']
 ---
 ![Picture of a graveyeard](/images/graveyard.jpg)
