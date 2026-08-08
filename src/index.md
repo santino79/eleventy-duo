@@ -7,15 +7,15 @@ title: 'Alan Hylands'
 
 ## Data
 
-Currently I'm a Data Scientist at Zapier.
+Currently, I'm a Data Scientist at Zapier.
 
-I [write articles](https://analystsassemble.com/articles/) to help folks become better data analysts at [Analysts Assemble](https://analystsassemble.com).
+I [write articles](/tags/data/) to help folks become better data analysts.
 
-And help them learn SQL with my online [SQL Crash Course](https://sqlcrashcourse.com).
+And teach them SQL with my online [SQL Crash Course](https://sqlcrashcourse.com).
 
 ## Writing
 
-I have been a <a href="/posts/i-want-to-be-a-football-writer-when-i-grow-up/">World Soccer editor</a> for About.com 
+I have been a <a href="/i-want-to-be-a-football-writer-when-i-grow-up/">World Soccer editor</a> for About.com 
 and The New York Times Company, 
 and had articles published in <a href="https://medium.com/data-science/becoming-an-analytics-manager-isnt-a-promotion-c3f65bbd0d95">Towards Data Science</a>
 and <a href="https://hackernoon.com/fewer-dashboards-more-analysis-63581970672c">Hacker Noon</a>.

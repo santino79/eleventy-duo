@@ -1,7 +1,6 @@
 ---
 title: 'I Want To Be A Football Writer When I Grow Up'
 description: 'Alan looks back on his experience as a wannabe football writer, making the dream come true, then letting it go.'
-permalink: posts/{{ title | slug }}/index.html
 date: '2018-08-09'
 tags: ['writing','football']
 ---
