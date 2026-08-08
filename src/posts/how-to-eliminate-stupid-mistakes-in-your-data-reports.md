@@ -2,7 +2,6 @@
 title: "How To Eliminate Stupid Mistakes In Your Data Reports"
 date: '2018-04-19'
 description: ''
-permalink: posts/{{ title | slug }}/index.html
 tags: ['data']
 ---
 ![Failed It book](/images/failedit-book.jpg)
