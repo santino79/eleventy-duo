@@ -45,9 +45,9 @@ There is an overriding fear of failure that I'll cover more deeply at another ti
 
 I have, of course, finished a great many projects.
 
-I started State of the Game as a means of getting my football writing out into the world. It grew and grew, brought me into contact with a lot of interesting characters and got me the opportunity to write professionally for About.com and the New York Times Company.
+I started a football blog, State of the Game, as a means of getting my football writing out into the world. It grew and grew, brought me into contact with a lot of interesting characters and got me the opportunity to write professionally for About.com and the New York Times Company.
 
-I got back into e-commerce after a long time away to help grow Liz's Lockets. Writing about data has brought me into contact with a lot of really good analysts and data scientists already. **We have to credit the wins**, however small they may appear in the grand scheme.
+I got back into e-commerce after a long time away to help grow my wife's jewellery business, Liz's Lockets. Writing about data has brought me into contact with a lot of really good analysts and data scientists already. **We have to credit the wins**, however small they may appear in the grand scheme.
 
 Launching a very small, "inspired by Hello Dolly" Wordpress plugin may not seem like something worth shouting about. Physically chalking it up in my wins column this month made it worth writing a blog post about building my first Wordpress plugin. It builds confidence for moving on to bigger projects with more at stake.
 
